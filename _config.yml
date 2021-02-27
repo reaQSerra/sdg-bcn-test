@@ -14,7 +14,7 @@ remote_data_prefix: "https://reaqserra.github.io/sdg-bcn-data-test/"
 # In the next few items, replace "open-sdg" with the name of your GitHub
 # organization, and "open-sdg-data-starter" with the name of your data repository.
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#open-sdgsdg-bcn-data-test/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#open-sdg/sdg-bcn-data-test/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
 metadata_edit_url: http://prose.io/#open-sdg/sdg-bcn-data-test/edit/develop/meta/[id].md
 #
